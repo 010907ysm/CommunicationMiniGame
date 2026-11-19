@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: zeta-community-mini-games
+    name: community-mini-games
     runtime: node
     plan: free
     buildCommand: npm install
